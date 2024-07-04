@@ -1,7 +1,36 @@
 # AND-Gate_SingleLayerNN
-AND-Gate_SingleLayerNN
 
-there are two parts: 
+<h2>Part 1</h2>
+    <p>
+        In this part of the project, I developed a computer program to implement the perceptron learning rule and the delta learning rule. The program was used to train a neuron to simulate the AND gate. The input patterns and their corresponding teacher signals are as follows:
+    </p>
+    <ul>
+        <li>Data: (0,0,-1); (0,1,-1); (1,0,-1); (1,1,-1)</li>
+        <li>Teacher signals: -1, -1, -1, 1</li>
+    </ul>
+    <p>
+        The program outputs include:
+    </p>
+    <ul>
+        <li>Weights of the neuron</li>
+        <li>Neuron output for each input pattern</li>
+    </ul>
+
+  <h2>Part 2</h2>
+    <p>
+        The program from Part 1 was extended to learn single layer neural networks. The enhanced program can design:
+    </p>
+    <ul>
+        <li>A single layer neural network with discrete neurons</li>
+        <li>A single layer neural network with continuous neurons</li>
+    </ul>
+    <p>
+        The program was tested using the following data:
+    </p>
+    <ul>
+        <li>Inputs: (10,2,-1), (2,-5,-1), (-5,5,-1)</li>
+        <li>Teacher signals: (1,-1,-1), (-1,1,-1), and (-1,-1,1)</li>
+    </ul>
 
 
 ![Visualisation](https://github.com/majamichaelis/AND-Gate_SingleLayerNN/assets/73911655/d0b7ab40-f3f3-4981-961b-25a9105a539a)
