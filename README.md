@@ -1,5 +1,7 @@
 # AND-Gate_SingleLayerNN
 
+
+
 <h2>Part 1</h2>
     <p>
         In this part of the project, I developed a computer program to implement the perceptron learning rule and the delta learning rule. The program was used to train a neuron to simulate the AND gate. The input patterns and their corresponding teacher signals are as follows:
@@ -32,7 +34,7 @@
         <li>Teacher signals: (1,-1,-1), (-1,1,-1), and (-1,-1,1)</li>
     </ul>
 
-<p align = "center">
+<p align = "left">
    <img width="400" alt="Plot AND Gatter" src="https://github.com/majamichaelis/AND-Gate_SingleLayerNN/assets/73911655/5bc0c7b7-2677-448b-8001-5f3f915b43ff">
 <br> 
     <ul>
@@ -43,12 +45,12 @@
     </ul> 
 </p>
 
-<p align = "center">
+<p align = "left">
    <img width="400" alt="Desired Error = 0.01" src="https://github.com/majamichaelis/AND-Gate_SingleLayerNN/assets/73911655/33763669-9e5f-42f1-873d-d77a731e1dc6">
 <br> Desired Error = 0.01
 </p>
 
-<p align = "center">
+<p align = "left">
    <img width="400" alt="Desired Error = 0.1" src="https://github.com/majamichaelis/AND-Gate_SingleLayerNN/assets/73911655/00506962-1eb6-4c52-b59a-636f2f6c4831">
 <br> Desired Error 0.1
 </p>
